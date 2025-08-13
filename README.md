@@ -1,0 +1,2 @@
+# UPI-transaction-prediction-using-Time-Series-Analysis-and-Neural-networks
+This project analyzes UPI transaction data using time series techniques. We performed EDA, identified seasonality by Fourier Transform, performed Augmented Dickey-Fuller test for stationarity and found it to be non-stationary, and applied ARIMA and SARIMA models. We also implemented RNN, LSTM, and GRU models and compared their performance.
